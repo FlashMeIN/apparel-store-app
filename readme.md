@@ -6,7 +6,7 @@ This project implements a REST API for managing apparel stock and processing cus
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/apparel-management-api.git
+   git clone [https://github.com/your-username/apparel-management-api.git](https://github.com/FlashMeIN/apparel-store-app.git)
    cd apparel-management-api
    ```
 
